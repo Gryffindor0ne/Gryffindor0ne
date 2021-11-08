@@ -4,7 +4,7 @@
 
 <br>
 
-### 🪶 **Use Stacks**
+### 🪶 **Skills**
 
 <br>
 
