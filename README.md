@@ -15,6 +15,8 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
+![snake gif](https://github.com/Gryffindor0ne/Gryffindor0ne/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
