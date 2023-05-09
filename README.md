@@ -5,7 +5,7 @@
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-795548?logo=Github)](https://gryffindor0ne.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:ukjae29@gmail.com)
 
- ![Gryffindor0ne's GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Gryffindor0ne&theme=moltack&show_icons=true)
+ ![Gryffindor0ne's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gryffindor0ne&theme=moltack&show_icons=true)
 
 ## Languages and Tools ##
 
