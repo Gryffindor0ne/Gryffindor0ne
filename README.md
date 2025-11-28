@@ -1,8 +1,6 @@
 # I'm Devin Lee
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:ukjae29@gmail.com)
-
 
 ## Languages and Tools ##
 
